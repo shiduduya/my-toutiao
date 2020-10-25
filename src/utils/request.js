@@ -5,7 +5,7 @@ import axios from 'axios'
 const request = axios.create({
     // 公共基准路径
     baseURL: 'http://api-toutiao-web.itheima.net/'
-    // baseURL: 'http://ttapi.research.itcast.cn/app/'
+    // baseURL: 'http://ttapi.research.itcast.cn/'
 
 
 })
